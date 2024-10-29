@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-- Avoir git installer sur sa machine
+- Avoir git installer sur sa machine (Vous pouvez executer la commande git --version, pour vérifier si git est vraiment installé)
 - Faire un Fork du repository distant. Cette action crééra un repository dans notre repository distant personnel
 - Faire un enfin un git clone lien du repository créé dans mon repository distant personnel issu du fork du repository d'origine
 
